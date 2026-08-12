@@ -1,6 +1,8 @@
+![Yash Animated Banner](https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:00E5FF&height=220&section=header&text=YASH&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38)
+
 # 👋 Hi, I'm Yash
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Developer;Android+Developer;Python+Learner;Building+Projects+and+Learning)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Computer+Engineering+Student;Java+Developer;Android+Developer;Python+Learner;Web+Developer;Building+Projects+and+Learning)
 
 ---
 
@@ -56,9 +58,25 @@
 
 ---
 
+## 📂 My Projects
+
+### 🚀 FUTURE_FS_01
+
+Web development project built as part of my learning journey.
+
+**Technology:** HTML • CSS • JavaScript
+
+### 🚀 FUTURE_FS_02
+
+Another project focused on improving practical development skills.
+
+**Technology:** Web Development
+
+---
+
 ## 📊 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash12yt&show_icons=true&theme=tokyonight&hide_border=true)
+![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash12yt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash12yt&layout=compact&theme=tokyonight&hide_border=true)
 
@@ -78,17 +96,18 @@
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash12yt&theme=tokyo-night&hide_border=true)
+![Yash's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yash12yt&theme=tokyo-night&hide_border=true&area=true)
 
 ---
 
 ## 🎯 My Goals
 
-- ✅ Improve programming skills
-- ✅ Build real-world projects
-- ✅ Learn advanced development
-- ✅ Explore AI & Data Science
-- ✅ Contribute to Open Source
+- 🚀 Improve my programming skills
+- 💻 Build real-world projects
+- 📱 Develop useful applications
+- 🧠 Learn advanced technologies
+- 🤖 Explore AI & Data Science
+- 🌱 Contribute to Open Source
 
 ---
 
@@ -100,4 +119,4 @@
 
 ### 💙 Thanks for visiting my profile!
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2C5364,50:203A43,100:0F2027&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00E5FF,50:203A43,100:0F2027&section=footer&animation=fadeIn)
