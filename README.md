@@ -76,10 +76,9 @@ Another project focused on improving practical development skills.
 
 ## 📊 GitHub Stats
 
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash12yt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![Yash's GitHub Stats](https://github-stats-extended.vercel.app/api?username=yash12yt&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yash12yt&layout=compact&theme=tokyonight&hide_border=true)
-
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=yash12yt&layout=compact&theme=tokyonight&hide_border=true)
 ---
 
 ## 🔥 GitHub Streak
